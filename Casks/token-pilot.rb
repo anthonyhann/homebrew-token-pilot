@@ -1,6 +1,6 @@
 cask "token-pilot" do
   version "0.2.6"
-  sha256 "84da3c8f06d4803a4283fe27276e2c551240eefa177c3213272fc11e96343ade"
+  sha256 "0bf9415d9f99c182dfd731936f31c044c24196896a2b51da6cf3ac8200597cf2"
 
   url "https://github.com/anthonyhann/token-pilot/releases/download/v#{version}/token-pilot_#{version}_aarch64.dmg"
   name "token-pilot"
